@@ -1,0 +1,459 @@
+{
+  "facilities": [
+    {
+      "id": "fac-001",
+      "name": "Facility A",
+      "type": "Gas Processing",
+      "location": {
+        "latitude": 51.1839,
+        "longitude": -114.4694
+      },
+      "classification": "Large Emitter",
+      "tightening_activity_group": "Natural Gas Processing"
+    },
+    {
+      "id": "fac-002",
+      "name": "Facility B",
+      "type": "Oil Production",
+      "location": {
+        "latitude": 56.7233,
+        "longitude": -111.3795
+      },
+      "classification": "Large Emitter",
+      "tightening_activity_group": "Oil Sands Mining"
+    },
+    {
+      "id": "fac-003",
+      "name": "Facility C",
+      "type": "Gas Processing",
+      "location": {
+        "latitude": 53.5461,
+        "longitude": -113.4938
+      },
+      "classification": "Large Emitter",
+      "tightening_activity_group": "Natural Gas Processing"
+    }
+  ],
+  "emissions_data": [
+    {
+      "facility_id": "fac-001",
+      "year": 2024,
+      "monthly_emissions": [
+        {
+          "month": "Jan",
+          "value": 237653.0
+        },
+        {
+          "month": "Feb",
+          "value": 214486.0
+        },
+        {
+          "month": "Mar",
+          "value": 237653.0
+        },
+        {
+          "month": "Apr",
+          "value": 230000.0
+        },
+        {
+          "month": "May",
+          "value": 237653.0
+        },
+        {
+          "month": "Jun",
+          "value": 230000.0
+        },
+        {
+          "month": "Jul",
+          "value": 237653.0
+        },
+        {
+          "month": "Aug",
+          "value": 237653.0
+        },
+        {
+          "month": "Sep",
+          "value": 230000.0
+        },
+        {
+          "month": "Oct",
+          "value": 237653.0
+        },
+        {
+          "month": "Nov",
+          "value": 230000.0
+        },
+        {
+          "month": "Dec",
+          "value": 237653.0
+        }
+      ]
+    },
+    {
+      "facility_id": "fac-002",
+      "year": 2024,
+      "monthly_emissions": [
+        {
+          "month": "Jan",
+          "value": 416667.0
+        },
+        {
+          "month": "Feb",
+          "value": 375000.0
+        },
+        {
+          "month": "Mar",
+          "value": 416667.0
+        },
+        {
+          "month": "Apr",
+          "value": 403333.0
+        },
+        {
+          "month": "May",
+          "value": 416667.0
+        },
+        {
+          "month": "Jun",
+          "value": 403333.0
+        },
+        {
+          "month": "Jul",
+          "value": 416667.0
+        },
+        {
+          "month": "Aug",
+          "value": 416667.0
+        },
+        {
+          "month": "Sep",
+          "value": 403333.0
+        },
+        {
+          "month": "Oct",
+          "value": 416667.0
+        },
+        {
+          "month": "Nov",
+          "value": 403333.0
+        },
+        {
+          "month": "Dec",
+          "value": 416667.0
+        }
+      ]
+    },
+    {
+      "facility_id": "fac-003",
+      "year": 2024,
+      "monthly_emissions": [
+        {
+          "month": "Jan",
+          "value": 125000.0
+        },
+        {
+          "month": "Feb",
+          "value": 112500.0
+        },
+        {
+          "month": "Mar",
+          "value": 125000.0
+        },
+        {
+          "month": "Apr",
+          "value": 121000.0
+        },
+        {
+          "month": "May",
+          "value": 125000.0
+        },
+        {
+          "month": "Jun",
+          "value": 121000.0
+        },
+        {
+          "month": "Jul",
+          "value": 125000.0
+        },
+        {
+          "month": "Aug",
+          "value": 125000.0
+        },
+        {
+          "month": "Sep",
+          "value": 121000.0
+        },
+        {
+          "month": "Oct",
+          "value": 125000.0
+        },
+        {
+          "month": "Nov",
+          "value": 121000.0
+        },
+        {
+          "month": "Dec",
+          "value": 125000.0
+        }
+      ]
+    }
+  ],
+  "forecasts": [
+    {
+      "facility_id": "fac-001",
+      "year": 2025,
+      "forecasted_emissions": 3103854
+    },
+    {
+      "facility_id": "fac-001",
+      "year": 2026,
+      "forecasted_emissions": 3011364
+    },
+    {
+      "facility_id": "fac-001",
+      "year": 2027,
+      "forecasted_emissions": 2810559
+    },
+    {
+      "facility_id": "fac-001",
+      "year": 2028,
+      "forecasted_emissions": 3019652
+    },
+    {
+      "facility_id": "fac-001",
+      "year": 2029,
+      "forecasted_emissions": 3018420
+    },
+    {
+      "facility_id": "fac-002",
+      "year": 2025,
+      "forecasted_emissions": 5100000
+    },
+    {
+      "facility_id": "fac-002",
+      "year": 2026,
+      "forecasted_emissions": 5200000
+    },
+    {
+      "facility_id": "fac-002",
+      "year": 2027,
+      "forecasted_emissions": 5150000
+    },
+    {
+      "facility_id": "fac-002",
+      "year": 2028,
+      "forecasted_emissions": 5300000
+    },
+    {
+      "facility_id": "fac-002",
+      "year": 2029,
+      "forecasted_emissions": 5250000
+    },
+    {
+      "facility_id": "fac-003",
+      "year": 2025,
+      "forecasted_emissions": 1550000
+    },
+    {
+      "facility_id": "fac-003",
+      "year": 2026,
+      "forecasted_emissions": 1600000
+    },
+    {
+      "facility_id": "fac-003",
+      "year": 2027,
+      "forecasted_emissions": 1580000
+    },
+    {
+      "facility_id": "fac-003",
+      "year": 2028,
+      "forecasted_emissions": 1620000
+    },
+    {
+      "facility_id": "fac-003",
+      "year": 2029,
+      "forecasted_emissions": 1590000
+    }
+  ],
+  "regulatory_requirements": {
+    "credit_use_limits": [
+      {
+        "year": 2024,
+        "limit": 0.6
+      },
+      {
+        "year": 2025,
+        "limit": 0.55
+      },
+      {
+        "year": 2026,
+        "limit": 0.5
+      },
+      {
+        "year": 2027,
+        "limit": 0.45
+      },
+      {
+        "year": 2028,
+        "limit": 0.4
+      },
+      {
+        "year": 2029,
+        "limit": 0.35
+      }
+    ],
+    "tightening_rates": [
+      {
+        "group": "Natural Gas Processing",
+        "rate": 0.05
+      },
+      {
+        "group": "Oil Sands Mining",
+        "rate": 0.04
+      },
+      {
+        "group": "Conventional Oil Production",
+        "rate": 0.03
+      }
+    ],
+    "carbon_prices": [
+      {
+        "year": 2024,
+        "price": 65
+      },
+      {
+        "year": 2025,
+        "price": 75
+      },
+      {
+        "year": 2026,
+        "price": 85
+      },
+      {
+        "year": 2027,
+        "price": 95
+      },
+      {
+        "year": 2028,
+        "price": 105
+      },
+      {
+        "year": 2029,
+        "price": 115
+      }
+    ]
+  },
+  "compliance_gaps": {
+    "fac-001": [
+      {
+        "year": 2025,
+        "forecasted_emissions": 3103854.0,
+        "compliance_obligation": 2422500.0,
+        "compliance_gap": -681354.0,
+        "status": "Non-compliant"
+      },
+      {
+        "year": 2026,
+        "forecasted_emissions": 3011364.0,
+        "compliance_obligation": 2295000.0,
+        "compliance_gap": -716364.0,
+        "status": "Non-compliant"
+      },
+      {
+        "year": 2027,
+        "forecasted_emissions": 2810559.0,
+        "compliance_obligation": 2167500.0,
+        "compliance_gap": -643059.0,
+        "status": "Non-compliant"
+      },
+      {
+        "year": 2028,
+        "forecasted_emissions": 3019652.0,
+        "compliance_obligation": 2040000.0,
+        "compliance_gap": -979652.0,
+        "status": "Non-compliant"
+      },
+      {
+        "year": 2029,
+        "forecasted_emissions": 3018420.0,
+        "compliance_obligation": 1912500.0,
+        "compliance_gap": -1105920.0,
+        "status": "Non-compliant"
+      }
+    ],
+    "fac-002": [
+      {
+        "year": 2025,
+        "forecasted_emissions": 5100000.0,
+        "compliance_obligation": 4620000.0,
+        "compliance_gap": -480000.0,
+        "status": "Non-compliant"
+      },
+      {
+        "year": 2026,
+        "forecasted_emissions": 5200000.0,
+        "compliance_obligation": 4400000.0,
+        "compliance_gap": -800000.0,
+        "status": "Non-compliant"
+      },
+      {
+        "year": 2027,
+        "forecasted_emissions": 5150000.0,
+        "compliance_obligation": 4180000.0,
+        "compliance_gap": -970000.0,
+        "status": "Non-compliant"
+      },
+      {
+        "year": 2028,
+        "forecasted_emissions": 5300000.0,
+        "compliance_obligation": 3960000.0,
+        "compliance_gap": -1340000.0,
+        "status": "Non-compliant"
+      },
+      {
+        "year": 2029,
+        "forecasted_emissions": 5250000.0,
+        "compliance_obligation": 3740000.0,
+        "compliance_gap": -1510000.0,
+        "status": "Non-compliant"
+      }
+    ],
+    "fac-003": [
+      {
+        "year": 2025,
+        "forecasted_emissions": 1550000.0,
+        "compliance_obligation": 1453500.0,
+        "compliance_gap": -96500.0,
+        "status": "Non-compliant"
+      },
+      {
+        "year": 2026,
+        "forecasted_emissions": 1600000.0,
+        "compliance_obligation": 1377000.0,
+        "compliance_gap": -223000.0,
+        "status": "Non-compliant"
+      },
+      {
+        "year": 2027,
+        "forecasted_emissions": 1580000.0,
+        "compliance_obligation": 1300500.0,
+        "compliance_gap": -279500.0,
+        "status": "Non-compliant"
+      },
+      {
+        "year": 2028,
+        "forecasted_emissions": 1620000.0,
+        "compliance_obligation": 1224000.0,
+        "compliance_gap": -396000.0,
+        "status": "Non-compliant"
+      },
+      {
+        "year": 2029,
+        "forecasted_emissions": 1590000.0,
+        "compliance_obligation": 1147500.0,
+        "compliance_gap": -442500.0,
+        "status": "Non-compliant"
+      }
+    ]
+  }
+}
