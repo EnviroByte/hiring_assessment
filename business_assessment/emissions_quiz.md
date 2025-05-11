@@ -106,4 +106,4 @@ Answer the following multiple-choice questions about greenhouse gas emissions co
 
 Provide your answers in the format: 1-A, 2-B, etc.
 
-[Your answers here]
+1-B, 2-C, 3-D, 4-A, 5-A, 6-C, 7-B, 8-B, 9-A, 10-A, 11-A, 12-A, 13-B, 14-C, 15-A 
